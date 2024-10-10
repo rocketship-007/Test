@@ -1,4 +1,4 @@
-a = str(input("Do you want a snack"))
+a = str(input("Do you want to eat")
 if a == "yes":
     print("eat something")
 else:
